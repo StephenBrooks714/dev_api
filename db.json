@@ -1,4 +1,4 @@
-const data = {
+{
   [
     title: "Learning React",
     post: "Learning React is easy and comes with helpful hooks that makes development easier.",
@@ -25,5 +25,3 @@ const data = {
     image: "https://smazee.com/uploads/images/bootstrap-social.png" 
   ],
 }
-
-export default data;
