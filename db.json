@@ -1,0 +1,27 @@
+{
+  [
+    title: "Learning React",
+    post: "Learning React is easy and comes with helpful hooks that makes development easier.",
+    image: "http://code-fin-nua.com/wp-content/uploads/2020/06/react_logo_1200x640.png" 
+  ],
+  [
+    title: "Learning JavaScript",
+    post: "Learning JavaScript is easy and comes with functions that makes development easier.",
+    image: "https://astwellsoft.com/assets/images/blog/javascript.jpg" 
+  ],
+  [
+    title: "Learning Scss",
+    post: "Learning Scss is easy and comes with functions & mixins that makes Web Design easier.",
+    image: "https://astwellsoft.com/assets/images/blog/javascript.jpg" 
+  ],
+  [
+    title: "Learning Scss",
+    post: "Learning Scss is easy and comes with functions & mixins that makes Web Design easier.",
+    image: "https://poiemaweb.com/img/sass-logo.png" 
+  ],
+  [
+    title: "Learning Bootstrap",
+    post: "Learning Bootstrap is easy and comes with ready styles that makes Web Development easier.",
+    image: "https://smazee.com/uploads/images/bootstrap-social.png" 
+  ],
+}
