@@ -1,4 +1,4 @@
-{
+const data = {
     [
         title: "Web Development",
         description: "Building websites with JavaScript and React for dynamic pages.",
@@ -12,3 +12,4 @@
         image: "https://logos-download.com/wp-content/uploads/2016/09/Jira_logo.png"
     ],
 }
+module.exports = data;
