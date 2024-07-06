@@ -1,18 +1,14 @@
 {
-    "id": 1,
-    "title1": "Learning React",
-    "post1": "Learning React is easy and comes with helpful hooks that makes development easier.",
-    "image1": "http://code-fin-nua.com/wp-content/uploads/2020/06/react_logo_1200x640.png", 
-     "id": 2,
-    "title2": "Learning JavaScript",
-    "post2": "Learning JavaScript is easy and comes with functions that makes development easier.",
-    "image2": "https://astwellsoft.com/assets/images/blog/javascript.jpg", 
-    "id": 3,
-    "title3": "Learning Scss",
-    "post3": "Learning Scss is easy and comes with functions & mixins that makes Web Design easier.",
-    "image3": "https://poiemaweb.com/img/sass-logo.png", 
-     "id": 4,
-    "title4": "Learning Bootstrap",
-    "post4": "Learning Bootstrap is easy and comes with ready Styles that makes Web Development fast.",
-    "image4": "https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png", 
+    [
+        title: "Web Development",
+        description: "Building websites with JavaScript and React for dynamic pages.",
+        id: 1,
+        image: "https://www.rgsin.com/img/logos/react-js.png"
+    ],
+    [
+        title: "Web Management",
+        description: "Managing projects and the workforce with an Agile framework, Jira.",
+        id: 2,
+        image: "https://logos-download.com/wp-content/uploads/2016/09/Jira_logo.png"
+    ],
 }
